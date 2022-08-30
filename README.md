@@ -9,5 +9,3 @@ I applied the Differential Deep Learning (DDL) technique to price vanilla Europe
     
 * The files to be imported into the Google Collab environment.
 * The files containing the different results.
-
-
