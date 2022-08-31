@@ -10,6 +10,6 @@ I applied the Differential Deep Learning (DDL) technique to price vanilla Europe
     
 * A data_generation/ folder contains two .csv files containing the generated synthetic data.
 * A calibration_data/ folder contains three .csv files used to calibrate the Heston model on the market data.
-* hyperparam_tuning_res/folder contains two .csv files displaying the results of the hyperparameter tuning.
-* DDL_results/ folder contains .pdf files illustrating the results obtained in ”DifferentialNeuralNetworks.ipynb” notebook.
-* Calib_Results/ folder contains .csv and .pdf files representing the results of the calibration process.
+* A hyperparam_tuning_res/folder contains two .csv files displaying the results of the hyperparameter tuning.
+* A DDL_results/ folder contains .pdf files illustrating the results obtained in ”DifferentialNeuralNetworks.ipynb” notebook.
+* A Calib_Results/ folder contains .csv and .pdf files representing the results of the calibration process.
